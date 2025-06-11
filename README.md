@@ -1,5 +1,5 @@
 # Style Transfer with Multi-iteration Preference Optimization
-The official repository for the paper "[Style Transfer with Multi-iteration Preference Optimization](https://arxiv.org/pdf/2406.11581v1)".  
+The official repository for the NAACL 2025 paper "[Style Transfer with Multi-iteration Preference Optimization](https://aclanthology.org/2025.naacl-long.135/)".  
 
 ![STAMP overview](assets/STAMP_overview.png)
 
